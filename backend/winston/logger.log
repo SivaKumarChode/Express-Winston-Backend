@@ -1,0 +1,14 @@
+
+{"level":"info","message":"server running successfully 5500","timestamp":"2025-03-21 12:51:22"}
+{"level":"info","message":"dataBase connected successfully","timestamp":"2025-03-21 12:51:22"}
+{"level":"error","message":"user is already exists","timestamp":"2025-03-21 12:51:56"}
+{"level":"info","message":"user register successful","timestamp":"2025-03-21 12:52:06"}
+{"level":"info","message":"user Login Successful","module":"AuthModule","timestamp":"2025-03-21 12:52:47"}
+{"level":"info","message":"server running successfully 5500","timestamp":"2025-03-21 12:54:57"}
+{"level":"info","message":"dataBase connected successfully","timestamp":"2025-03-21 12:54:57"}
+{"level":"info","message":"server running successfully 5500","timestamp":"2025-03-21 12:55:00"}
+{"level":"info","message":"dataBase connected successfully","timestamp":"2025-03-21 12:55:00"}
+{"level":"info","message":"server running successfully 5500","timestamp":"2025-03-21 12:55:01"}
+{"level":"info","message":"dataBase connected successfully","timestamp":"2025-03-21 12:55:01"}
+{"level":"error","message":"provide valid email or password","module":"AuthModule","timestamp":"2025-03-21 12:55:07"}
+{"level":"info","message":"user Login Successful","module":"AuthModule","timestamp":"2025-03-21 12:55:16"}
